@@ -1,0 +1,4 @@
+Ingreso al sistema:
+
+Usuario: admin
+Contrase�a: admin
